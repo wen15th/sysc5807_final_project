@@ -1,0 +1,33 @@
+{
+    "exit_code_by_key": {
+        "main.solve_quadratic.x_solve_quadratic__mutmut_1": 1,
+        "main.solve_quadratic.x_solve_quadratic__mutmut_2": 1,
+        "main.solve_quadratic.x_solve_quadratic__mutmut_3": 1,
+        "main.solve_quadratic.x_solve_quadratic__mutmut_4": 1,
+        "main.solve_quadratic.x_solve_quadratic__mutmut_5": 1,
+        "main.solve_quadratic.x_solve_quadratic__mutmut_6": 1,
+        "main.solve_quadratic.x_solve_quadratic__mutmut_7": 1,
+        "main.solve_quadratic.x_solve_quadratic__mutmut_8": 1,
+        "main.solve_quadratic.x_solve_quadratic__mutmut_9": 1,
+        "main.solve_quadratic.x_solve_quadratic__mutmut_10": 1,
+        "main.solve_quadratic.x_solve_quadratic__mutmut_11": 1,
+        "main.solve_quadratic.x_solve_quadratic__mutmut_12": 1,
+        "main.solve_quadratic.x_solve_quadratic__mutmut_13": 1,
+        "main.solve_quadratic.x_solve_quadratic__mutmut_14": 1,
+        "main.solve_quadratic.x_solve_quadratic__mutmut_15": 1,
+        "main.solve_quadratic.x_solve_quadratic__mutmut_16": 1,
+        "main.solve_quadratic.x_solve_quadratic__mutmut_17": 1,
+        "main.solve_quadratic.x_solve_quadratic__mutmut_18": 1,
+        "main.solve_quadratic.x_solve_quadratic__mutmut_19": 1,
+        "main.solve_quadratic.x_solve_quadratic__mutmut_20": 1,
+        "main.solve_quadratic.x_solve_quadratic__mutmut_21": 1,
+        "main.solve_quadratic.x_solve_quadratic__mutmut_22": 1,
+        "main.solve_quadratic.x_solve_quadratic__mutmut_23": 1,
+        "main.solve_quadratic.x_solve_quadratic__mutmut_24": 1,
+        "main.solve_quadratic.x_solve_quadratic__mutmut_25": 1,
+        "main.solve_quadratic.x_solve_quadratic__mutmut_26": 1
+    },
+    "hash_by_function_name": {
+        "solve_quadratic": "ea8c2215c63fec2f15914a7b3c1015e2"
+    }
+}
